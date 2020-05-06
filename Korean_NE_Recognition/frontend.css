@@ -1,0 +1,40 @@
+.title {
+        width: 300px;
+        float: top;
+        background-color:lightblue;
+        background-position: 25%;
+        font-size: 40px;
+        font-family: fantasy;
+        font-weight:bolder;
+        margin-bottom: 20px;
+        } 
+
+.keyword { 
+        float:top; 
+        width:100%;
+        height:10%;
+        } 
+        
+.result { 
+        float:bottom; 
+        width:90%;
+        height:60% 
+        } 
+
+.highlight { 
+        background-color:#FFFF00; 
+}
+
+input[type="text"]{
+        font-size:16px;
+        }
+
+div[id="result"]{
+        font-size:16px;
+}
+
+button[type="button"]{
+        font-size:16px;
+        font-weight:bold;
+        background-color:lightgrey;
+}

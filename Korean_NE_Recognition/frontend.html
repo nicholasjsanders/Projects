@@ -1,0 +1,32 @@
+<html>
+<head> 
+<script language="javascript" type="text/javascript" src="frontend.js"> </script>
+</head>
+<link rel="stylesheet" type="text/css" href="frontend.css">
+<body>
+<div>
+<div class="title">
+Naver IT/Science News Named Entity Recognition
+</div>
+<div class="keyword">
+<form id="form" action="/">
+<input type="text" name="text" placeholder="Type any words you want to search..." size="55"> </input> 
+<button type="button" onclick="submit_form();"> Search </button><br></br>
+<input type="checkbox" id="annotated" onchange="enable(this)" > 
+    <label style="font-size: 18px;">Annotated   </label>
+</input>   
+<input type="checkbox" name="person" id="person" disabled> 
+    <label style="font-size: 18px;">Person</label></input>        
+<input type="checkbox" name="organization" id="organization" disabled>  
+    <label style="font-size: 18px;">Organization</label></input>
+<input type="checkbox" name="place" id="place" disabled>  
+    <label style="font-size: 18px;">Place</label></input>   
+    <p><a href="https://github.ubc.ca/sunniexu/Korean_NE_Recognition">Download the file</a></p>                                                                                      
+</form> 
+</div>
+<br></br>
+<div class="result" id="maintext"> 
+</div>                                                                                      
+</div>
+</body>
+</html>
