@@ -7,3 +7,7 @@ Files:
 - [Models used in testing](https://github.com/nicholasjsanders/Projects/tree/master/Sentiment-Analysis_Finan-News/Models)
 - [Dataset Stats](https://github.com/nicholasjsanders/Projects/blob/master/Sentiment-Analysis_Finan-News/Dataset_Stats.ipynb)
 - [Final Paper](https://github.com/nicholasjsanders/Projects/blob/master/Sentiment-Analysis_Finan-News/Sentiment%20Analysis%20for%20Financianl%20News.pdf)
+
+## Co-Authors
+
+Aaron Tian (aarontian426@gmail.com), Rubie Nguyen (nrubyn22@gmail.com)
